@@ -80,6 +80,8 @@ if price>0:
     place.empty()
     # st.subheader(body)
 
+    st.markdown("Designed by: Aaryan Bhardwaj")
+
     st.success(body)
 
 else: 
